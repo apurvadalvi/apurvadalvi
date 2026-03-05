@@ -1,17 +1,5 @@
-# Hi, I'm Apurva 👋
-
-I'm a Data Engineer and Analyst based in the UK, with a background 
-in building production-grade data pipelines, data quality frameworks, and 
-end-to-end analytical solutions.
-
-I am currently looking for Data Engineering and Data Analyst roles in the UK.
-
-## 🔧 Tech Stack
-**Languages:** Python, SQL, R  
-**Data Engineering:** dbt, Snowflake, AWS S3, AWS EC2, PySpark, ETL/ELT Pipelines  
-**Databases:** SQL Server, MongoDB, PostgreSQL  
-**Visualisation:** Tableau, Power BI  
-**Tools:** Git, Jenkins, Bitbucket, JIRA, Linux  
+# 💫 About Me:
+Hi, I'm Apurva 👋<br>I'm a Data Engineer and Analyst based in the UK, with a background in building production-grade data pipelines, data quality frameworks, and end-to-end analytical solutions.<br><br>I am currently looking for Data Engineering and Data Analyst roles in the UK.<br><br>🔧 Tech Stack<br>Languages: Python, SQL, R<br>Data Engineering: dbt, Snowflake, AWS S3, AWS EC2, PySpark, ETL/ELT Pipelines<br>Databases: SQL Server, MongoDB, PostgreSQL<br>Visualisation: Tableau, Power BI<br>Tools: Git, Jenkins, Bitbucket, JIRA, Linux<br><br>
 
 ## 📂 Projects
 | Project | Area | Tools |
@@ -22,5 +10,10 @@ I am currently looking for Data Engineering and Data Analyst roles in the UK.
 | [Sales Analysis - Green Cart](https://github.com/apurvadalvi/projects) | Data Analysis | Python, Pandas, Seaborn |
 | [DCF & Reverse DCF Valuation](https://github.com/apurvadalvi/projects) | Financial Modelling | Python, Scikit-learn, Financial APIs |
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-apurva--dalvi13-blue)](https://linkedin.com/in/apurva-dalvi13)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/apurva-dalvi13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apurvapdalvi13@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
