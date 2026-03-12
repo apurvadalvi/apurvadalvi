@@ -11,7 +11,7 @@ Hi, I am Apurva 👋<br>I'm a Data Engineer and Analyst based in the UK, with a 
 |---|---|---|
 | [HealthPulse Smart Clinic](https://github.com/apurvadalvi/amdari-healthpulse) | Data Engineering | Python, dbt, Snowflake, AWS S3 |
 | [Customer Churn Prediction](https://github.com/apurvadalvi/projects) | Machine Learning | Python, Scikit-learn, Logistic Regression |
-| [BI Dashboard - TechHub Retail]([https://github.com/apurvadalvi/](https://github.com/apurvadalvi/uptrail-BI_Dashboard)) | Business Intelligence | Tableau, Python |
+| [BI Dashboard - TechHub Retail](https://github.com/apurvadalvi/uptrail-BI_Dashboard) | Business Intelligence | Tableau, Python |
 | [Sales Analysis - Green Cart](https://github.com/apurvadalvi/projects) | Data Analysis | Python, Pandas, Seaborn, Matplotlib |
 
 
